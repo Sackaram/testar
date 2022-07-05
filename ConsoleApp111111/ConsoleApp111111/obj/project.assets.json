@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vicke\\Documents\\GitHub\\testar\\ConsoleApp111111\\ConsoleApp111111\\ConsoleApp111111.csproj",
+      "projectUniqueName": "C:\\Users\\vicke\\Source\\Repos\\testarr\\ConsoleApp111111\\ConsoleApp111111\\ConsoleApp111111.csproj",
       "projectName": "ConsoleApp111111",
-      "projectPath": "C:\\Users\\vicke\\Documents\\GitHub\\testar\\ConsoleApp111111\\ConsoleApp111111\\ConsoleApp111111.csproj",
+      "projectPath": "C:\\Users\\vicke\\Source\\Repos\\testarr\\ConsoleApp111111\\ConsoleApp111111\\ConsoleApp111111.csproj",
       "packagesPath": "C:\\Users\\vicke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vicke\\Documents\\GitHub\\testar\\ConsoleApp111111\\ConsoleApp111111\\obj\\",
+      "outputPath": "C:\\Users\\vicke\\Source\\Repos\\testarr\\ConsoleApp111111\\ConsoleApp111111\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vicke\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
